@@ -13,6 +13,7 @@ if(status == True):
         print("Crescente")
     elif(A[k + 1] < A[k]):
         print("Decrescente")
-
+    elif(A[k + 1] == A[k]):
+        print("Constante")
 
 
