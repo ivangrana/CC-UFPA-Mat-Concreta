@@ -1,4 +1,3 @@
-# Python program for implementation of MergeSort
 def mergeSort(sequencia):
 	if len(sequencia) > 1:
 
